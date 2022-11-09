@@ -1,6 +1,7 @@
 # Sentiment-Analysis-on-iphone-14-
-PROJECT OVERVIEW
-Problem Statement : Perform Sentiment analysis to estimate and understand customer 
+# PROJECT OVERVIEW
+
+*Problem Statement* : Perform Sentiment analysis to estimate and understand customer 
 attitude towards the Apple Iphone14 series
 
 Background:
