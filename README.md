@@ -1,10 +1,10 @@
 # Sentiment-Analysis-on-iphone-14-
 # PROJECT OVERVIEW
 
-*Problem Statement* : Perform Sentiment analysis to estimate and understand customer 
+**Problem Statement** : Perform Sentiment analysis to estimate and understand customer 
 attitude towards the Apple Iphone14 series
 
-Background:
+**Background**:
 The Apple iPhone 14 series are smartphones created and manufactured by the Apple Inc. 
 The iphone14 represent the 16th generation of iPhones to be launched by apple and were 
 announced on September 17th 2022. Some of the major feature improvements to the camera , 
@@ -14,7 +14,7 @@ in the August. Analysts predicted a strong sales trend despite weak consumer spe
 inflation.Apple reported no impact to its production due to geopolitical tensions in the 
 August 2022.
 
-Methodology:
+**Methodology**:
 Python is the main choice of language used to conduct the analysis. Using queries and 
 creation of Twitter API account, tweets were gathered and collected in the form of json files. 
 These were fed into different packages in python to conduct and analyze customer perception 
@@ -45,7 +45,7 @@ visualize and derive some of the frequent words observed in tweets.
 ● TextBlob was used to understand subjectivity as well as polarity score of these tweets 
 to derive insights on customer perception towards iphone14.
 
-Goal:
+**Goal**:
 ● The main goal is to understand general market sentiment and polarity towards Apple 
 iPhone 14 . This will help gauge if there is a general positive, negative or neutral 
 outlook towards the new line of products. 
@@ -54,3 +54,5 @@ outlook towards the new line of products.
 opinions contained in the dataset. The higher subjectivity score means these are 
 actually personal opinions of the users and can be a reliable indicator to support the 
 polarity score.
+
+The detailed report is also attached in the pdf file in this repository
